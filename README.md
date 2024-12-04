@@ -1,11 +1,10 @@
-Here's an even **more engaging and professional** GitHub profile README with improved visuals, interactivity, and structure:
 
----
 
 # Hi there, I'm **Shahzada Nasir Uddin** 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shahzadanasiruddin&label=Profile%20views&color=blue&style=flat-square)](https://github.com/shahzadanasiruddin)  
 [![GitHub Followers](https://img.shields.io/github/followers/shahzadanasiruddin?label=Followers&style=social)](https://github.com/shahzadanasiruddin)
+
 
 ---
 
@@ -17,7 +16,7 @@ I’m a **passionate developer** who loves building **scalable applications**, c
 - 💼 Contributing to open-source projects and collaborating with the developer community.  
 - 🏆 Participating in coding challenges and hackathons.  
 
-> “Code is like humor. When you have to explain it, it’s bad.” – _Cory House_
+>## “Code is like humor. When you have to explain it, it’s bad.” – _Cory House_
 
 ---
 
