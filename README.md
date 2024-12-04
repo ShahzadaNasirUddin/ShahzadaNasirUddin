@@ -20,7 +20,7 @@
 - [LinkedIn](https://linkedin.com/in/shahzadanasiruddin)
 - [Twitter](https://twitter.com/shahzadanasiruddin)
 - [Email](mailto:shahzadanasiruddin@example.com)
-- [Facebook]((https://www.facebook.com/shahzada.nasir.uddin))
+- [Facebook](https://www.facebook.com/shahzada.nasir.uddin)
 
 Thanks for visiting my profile!
 
