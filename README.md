@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shahzada nasir uddin
-- 🌱 I’m currently studying software engineering
-- # Hi there, I'm Shahzad Anasiruddin 👋
+
+- # Hi there, I'm Shahzada Nasir uddin 👋
 
 ## About Me
 - 🌱 I’m currently learning new technologies and improving my coding skills.
@@ -8,7 +7,7 @@
 - ⚡ Fun fact: I love coding and solving challenging problems.
 
 ## Skills
-- **Languages**: Python, JavaScript, TypeScript, HTML, CSS
+- **Languages**: Python, JavaScript, TypeScript, HTML, CSS, C++
 - **Frameworks**: React, Node.js, Express
 - **Tools**: Git, Docker, Kubernetes, Jenkins
 
@@ -21,6 +20,7 @@
 - [LinkedIn](https://linkedin.com/in/shahzadanasiruddin)
 - [Twitter](https://twitter.com/shahzadanasiruddin)
 - [Email](mailto:shahzadanasiruddin@example.com)
+- [Facebook]((https://www.facebook.com/shahzada.nasir.uddin))
 
 Thanks for visiting my profile!
 
